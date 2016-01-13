@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-	cout << "HellowWorld!" << endl;
+	cout << "Fight on!" << endl;
 }
